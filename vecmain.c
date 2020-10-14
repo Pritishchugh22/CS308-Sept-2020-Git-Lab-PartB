@@ -44,4 +44,8 @@ int main() {
 	/* Norm of two vectors*/
 	float normv = norm(vecA, vecB);
 	printf("norm of two vectors: %f\n", normv);	
+
+	/*Angle between two vectors*/
+	float angle_v = angle(vecA, vecB);
+	printf("Angle between two vectors: %f\n", angle_v);
 }

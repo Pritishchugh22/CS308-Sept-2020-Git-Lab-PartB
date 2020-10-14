@@ -13,5 +13,5 @@ vecmain: vecmain.c
 	gcc -Wall -c vecmain.c
 
 
-out: vecprod.o vecdot.o vecmain.o
+out: vecprod.o vecdot.o vecadd.o vecmain.o
 	gcc vecprod.o vecdot.o vecadd.o vecmain.o -o out 

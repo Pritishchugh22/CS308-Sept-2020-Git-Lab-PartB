@@ -29,4 +29,7 @@ int main() {
 	eleProd(vecA,vecB,vecC);
 	printf("Element product of two vectors:\n");
 	print(vecC);
+	/* Dot product of two vectors */
+	float dotp=dotprod(vecA,vecB);
+	printf("Dot product of two vectors: %f\n",dotp);
 }

@@ -25,4 +25,8 @@ int main() {
 	inputVector(vecA);
 	/* Input Vector 2 */
 	inputVector(vecB);
+	/* Element product of two vectors */
+	eleProd(vecA,vecB,vecC);
+	printf("Element product of two vectors:\n");
+	print(vecC);
 }

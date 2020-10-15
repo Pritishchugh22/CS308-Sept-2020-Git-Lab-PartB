@@ -18,18 +18,33 @@ Instructor: Padmanabhan Rajan Sir
 4. Program is running!!
 
 
-### Part A
+### Links of Part A
 
-* [B18030] 
-* [B18010] 
-* [B18161] 
-* [B18058] 
-* [B18119] 
+* [B18030: Tushar Goyal] 
+* [B18010: Ashutosh Sharma] 
+* [B18161: Anuj Goel] 
+* [B18058: Rao Inderjeet] 
+* [B18119: Keshav Garg] 
 
 [//]: # (These are reference links)
-   [B18030]: <https://github.com/tushargoyal22/CS308-Sept-2020-Git-Lab>
-   [B18010]: <https://github.com/spider0061/CS308-Sept-2020>
-   [B18058]: <https://github.com/inder128/CS308-Sept-2020-Git-Lab>
-   [B18161]: <https://github.com/AnujGoel-B18161/CS308-Sept-2020-Git-Lab-1>
-   [B18119]: <https://github.com/keshav234156/CS308-Sept-2020-Git-Lab>
+   [B18030: Tushar Goyal]: <https://github.com/tushargoyal22/CS308-Sept-2020-Git-Lab>
+   [B18010: Ashutosh Sharma]: <https://github.com/spider0061/CS308-Sept-2020>
+   [B18058: Rao Inderjeet]: <https://github.com/inder128/CS308-Sept-2020-Git-Lab>
+   [B18161: Anuj Goel]: <https://github.com/AnujGoel-B18161/CS308-Sept-2020-Git-Lab-1>
+   [B18119: Keshav Garg]: <https://github.com/keshav234156/CS308-Sept-2020-Git-Lab>
+   
+### Commit and PR Links of Part B
+
+* [B18030: add vecadd.c] 
+* [B18010: add vecprod.c] 
+* [B18161: add vecnorm.c] 
+* [B18058: add vecdot.c] 
+* [B18119: add vecangle.c] 
+
+[//]: # (These are reference links)
+   [B18030: add vecadd.c]: <https://github.com/spider0061/CS308-Sept-2020-Git-Lab-PartB/pull/2>
+   [B18010: add vecprod.c]: <https://github.com/spider0061/CS308-Sept-2020-Git-Lab-PartB/commit/d766a755765550643f32cc5cec75231c27f82523>
+   [B18058: add vecdot.c]: <https://github.com/spider0061/CS308-Sept-2020-Git-Lab-PartB/pull/1>
+   [B18161: add vecnorm.c]: <https://github.com/spider0061/CS308-Sept-2020-Git-Lab-PartB/pull/3>
+   [B18119: add vecangle.c]: <https://github.com/spider0061/CS308-Sept-2020-Git-Lab-PartB/pull/4>
 

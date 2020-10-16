@@ -13,7 +13,7 @@ void add(vector vec_a, vector vec_b, vector vec_c);
 // elementwise product
 void eleProd(vector vec_a, vector vec_b, vector vec_c);
 // difference of two vectors
-float *diff(vector vec_a, vector vec_b);
+void diff(vector vec_a, vector vec_b, vector vec_c);
 // dot product
 float dotprod(vector vec_a, vector vec_b);
 // norm of two vectors

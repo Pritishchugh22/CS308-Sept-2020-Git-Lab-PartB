@@ -37,13 +37,20 @@ int main() {
 	printf("Addition of two vectors:\n");
 	print(vecC);
 
+
+	/* Diff of two vectors */
+	diff(vecA, vecB, vecC);
+	printf("Difference of two vectors:\n");
+	print(vecC);
+
+
 	/* Dot product of two vectors */
 	float dotp = dotprod(vecA, vecB);
 	printf("Dot product of two vectors: %f\n", dotp);
 
 	/* Norm of two vectors*/
 	float normv = norm(vecA, vecB);
-	printf("norm of two vectors: %f\n", normv);	
+	printf("norm of two vectors: %f\n", normv);
 
 	/*Angle between two vectors*/
 	float angle_v = angle(vecA, vecB);

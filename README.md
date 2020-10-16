@@ -31,7 +31,7 @@ Instructor: Padmanabhan Rajan Sir
    [B18010: Ashutosh Sharma]: <https://github.com/spider0061/CS308-Sept-2020>
    [B18058: Rao Inderjeet]: <https://github.com/inder128/CS308-Sept-2020-Git-Lab>
    [B18161: Anuj Goel]: <https://github.com/AnujGoel-B18161/CS308-Sept-2020-Git-Lab-1>
-   [B18119: Keshav Garg]: <https://github.com/keshav234156/CS308-Sept-2020-Git-Lab>
+   [B18119: Keshav Garg]: <https://github.com/keshav234156/CS308-Sept-2020-Git-Lab-1>
    
 ### Commit and PR Links of Part B
 
